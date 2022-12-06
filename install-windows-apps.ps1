@@ -37,7 +37,7 @@ choco install dotnet3.5 -y
 
 ## System management tools
 choco install procmon -y
-choco install choco install opensslchoco install opensslprocexp -y
+choco install opensslprocexp -y
 choco install processhacker.install -y
 choco install sysinternals -y
 # choco install bginfo -y
