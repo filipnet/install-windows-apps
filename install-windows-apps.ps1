@@ -16,7 +16,6 @@ choco install firefox -y
 choco install wireshark -y
 choco install git.install -y
 #choco install sourcetree -y
-choco install jre8 -y
 #choco install postman -y
 #choco install docker-compose -y
 choco install mqtt-explorer -y
@@ -30,8 +29,8 @@ choco install nmap -y
 choco install heidisql -y
 
 ## Environments
-choco install powershell -y
 choco install jre8 -y
+choco install powershell -y
 choco install vcredist140 -y
 choco install dotnet3.5 -y
 
@@ -86,7 +85,6 @@ choco install drawio -y
 choco install shotcut.install -y
 choco install eac -y
 choco install fsviewer -y
-choco install obs-studio -y
 
 ## Messanger
 choco install whatsapp -y
@@ -101,7 +99,6 @@ choco install freecommander-xe.install -y
 choco install totalcommander -y
 # choco install ccleaner -y
 # choco install partitionwizard -y
-choco install rufus -y
 choco install windirstat -y
 choco install treesizefree -y
 # choco install winrar -y
