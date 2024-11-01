@@ -5,6 +5,9 @@ SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
 
 choco feature enable -n allowGlobalConfirmation
 
+# Chocolatey GUI
+choco install chocolateygui -y
+
 ## Browsers
 choco install googlechrome -y
 choco install firefox -y
