@@ -36,6 +36,16 @@ choco install jre8 -y
 choco install powershell -y
 choco install vcredist140 -y
 #choco install dotnet3.5 -y
+choco install vscode-insiders -y
+#choco install docker-desktop -y
+#choco install slack -y
+#choco install gitkraken -y
+choco install postman -y
+choco install powershell-core -y
+#choco install terraform -y
+#choco install awscli -y
+#choco install kubernetes-cli -y
+choco install azure-cli -y
 
 ## System management tools
 choco install procmon -y
