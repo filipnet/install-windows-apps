@@ -35,13 +35,13 @@ choco install heidisql -y
 choco install jre8 -y
 choco install powershell -y
 choco install vcredist140 -y
-choco install dotnet3.5 -y
+#choco install dotnet3.5 -y
 
 ## System management tools
 choco install procmon -y
 choco install opensslprocexp -y
 choco install processhacker.install -y
-choco install sysinternals -y
+#choco install sysinternals -y
 # choco install bginfo -y
 
 ## VM
@@ -53,7 +53,7 @@ choco install notepadplusplus.install -y
 choco install visualstudiocode -y
 # choco install visualstudio2019community -y
 # choco install androidstudio -y
-choco install arduino -y
+#choco install arduino -y
 
 ## Office
 choco install libreoffice-fresh -y
@@ -87,10 +87,10 @@ choco install obs-studio.install -y
 choco install drawio -y
 choco install shotcut.install -y
 choco install eac -y
-choco install fsviewer -y
+#choco install fsviewer -y
 
 ## Messanger
-choco install whatsapp -y
+#choco install whatsapp -y
 choco install telegram.install -y
 
 ## Virtual private network
@@ -98,7 +98,7 @@ choco install openvpn -y
 choco install wireguard -y
 
 ## Productivity and utilities
-choco install freecommander-xe.install -y
+#choco install freecommander-xe.install -y
 choco install totalcommander -y
 # choco install ccleaner -y
 # choco install partitionwizard -y
@@ -119,9 +119,9 @@ choco install winauth -y
 
 ## Gaming
 choco install steam -y
-choco install origin -y
+choco install ea-app
 
 ## Children
-choco install tiptoimanager -y
+#choco install tiptoimanager -y
 
 choco feature disable -n allowGlobalConfirmation
