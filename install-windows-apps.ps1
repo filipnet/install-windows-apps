@@ -98,6 +98,8 @@ choco install drawio -y
 choco install shotcut.install -y
 choco install eac -y
 #choco install fsviewer -y
+choco install imageresizerapp -y
+
 
 ## Messanger
 #choco install whatsapp -y
