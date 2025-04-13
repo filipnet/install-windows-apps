@@ -100,7 +100,6 @@ choco install eac -y
 #choco install fsviewer -y
 choco install imageresizerapp -y
 
-
 ## Messanger
 #choco install whatsapp -y
 choco install telegram.install -y
@@ -131,7 +130,7 @@ choco install winauth -y
 
 ## Gaming
 choco install steam -y
-choco install ea-app
+choco install ea-app -y
 
 ## Children
 #choco install tiptoimanager -y
