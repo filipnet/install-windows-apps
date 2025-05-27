@@ -9,8 +9,9 @@ choco feature enable -n allowGlobalConfirmation
 choco install chocolateygui -y
 
 ## Browsers
-choco install googlechrome -y
-choco install firefox -y
+choco install brave -y
+# choco install googlechrome -y
+# choco install firefox -y
 # choco install chromium -y
 # choco install opera -y
 
@@ -27,16 +28,15 @@ choco install openssl -y
 ## Server tools
 choco install putty.install -y
 choco install winscp.install -y
-choco install filezilla -y
 choco install nmap -y
 choco install heidisql -y
+# choco install filezilla -y
 
 ## Environments
 choco install jre8 -y
 choco install powershell -y
 choco install vcredist140 -y
 #choco install dotnet3.5 -y
-choco install vscode-insiders -y
 #choco install docker-desktop -y
 #choco install slack -y
 #choco install gitkraken -y
@@ -71,7 +71,7 @@ choco install thunderbird -y
 # choco install adobereader -y
 choco install foxitreader -y
 choco install pdfsam.install -y
-choco install kindle -y
+# choco install kindle -y
 choco install freemind -y
 # choco install office365proplus -y
 
