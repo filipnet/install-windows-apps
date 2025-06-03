@@ -101,6 +101,7 @@ choco install eac -y
 choco install imageresizerapp -y
 
 ## Messanger
+choco install element-desktop -y
 #choco install whatsapp -y
 choco install telegram.install -y
 
